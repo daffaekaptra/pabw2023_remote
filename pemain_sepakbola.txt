@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. Lionel Messi
 2. Cristiano Ronaldo
 3. Kylian Mbappe
@@ -14,3 +15,10 @@
 13. Marcelo
 14. Ryan Gravenberch
 15. Alejandro Garnacho
+
+16. Diego Maradona
+17. Pele
+18. Roberto Carlos
+19. Paolo Maldini
+20. Gianluigi BUffon
+>>>>>>> master
